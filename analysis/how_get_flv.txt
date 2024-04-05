@@ -1,0 +1,240 @@
+http://114.80.185.16/youku/6961580E833C813EA93E26B72/030002010050019915509A003E8803CC652C2D-5754-72B4-0194-7744D27D93A2.flv
+
+
+http://127.0.0.1:8908/114.80.185.16/youku/6961580E833C813EA93E26B72/030002010050019915509A003E8803CC652C2D-5754-72B4-0194-7744D27D93A2.flv
+
+http://127.0.0.1:8909/180.96.38.41/youku/6573834855A4D81E3C0C3825F3/03000205004CD949A7CBC50215E21DAA6811EC-11DF-380D-A63B-F780E01DF4F9.flv
+http://127.0.0.1:8908/180.96.38.41/youku/6573834855A4D81E3C0C3825F3/03000205004CD949A7CBC50215E21DAA6811EC-11DF-380D-A63B-F780E01DF4F9.flv
+
+
+
+http://f.youku.com/player/getFlvPath/sid/134330543048914899547_00/st/flv/fileid/03000205004CD949A7CBC50215E21DAA6811EC-11DF-380D-A63B-F780E01DF4F9?K=26064669c890f002241114bd&hd=0&myp=8909&ts=426
+
+resp:
+
+键	值
+Location	http://127.0.0.1:8909/180.96.38.41/youku/6573834855A4D81E3C0C3825F3/03000205004CD949A7CBC50215E21DAA6811EC-11DF-380D-A63B-F780E01DF4F9.flv
+
+找到：
+http://valf.atm.youku.com/valf?ct=t&cs=251&v=55313411&t=1817&u=34988573&fileid=03000205004CD949A7CBC50215E21DAA6811EC-11DF-380D-A63B-F780E01DF4F9&winType=interior&partnerid=null&paid=0&fullflag=0&s=&td=0&k=%u71D5%u5C71%u5927%u8BB2%u5802%7C%u516C%u6C11%u793E%u4F1A
+（代码生成的：
+"http://valf.atm.youku.com/valf?ct=t&cs=251&v=55313411&t=1817&u=34988573"
+）
+
+resp：
+{"AT":"0","A2":{"RS":"http://f.youku.com/player/getFlvPath/fileid/030002010050019915509A003E8803CC652C2D-5754-72B4-0194-7744D27D93A2?K=064a5f2b759a85d1261c77e5&yad=1&ts=15","OU":"http://vid.atm.youku.com/over?v=55313411&p=1&ct=t&cs=251&ca=67498&ie=72487&uid=34988573&pl=2&bl=1&s=&td=0","COU":"","CU":"http://vid.atm.youku.com/click?v=55313411&p=1&ct=t&cs=251&ca=67498&ie=72487&uid=34988573&pl=2&bl=1&s=&td=0&u=http://c.admaster.com.cn/c/a10265,b200030704,c1339,i0,m101,h&md5=c1ca43a64cc2a5d2e14e31d5febffe82","SU":"http://v.admaster.com.cn/i/a10265,b200030704,c1339,i0,m202,h","VCU":"","SCU":"","VT":"","VC":"","ATMSU":"http://valf.atm.youku.com/show?v=55313411&p=1&ct=t&cs=251&ca=67498&ie=72487&uid=34988573&pl=2&bl=1&s=&td=0&cookie=1343305358185yen&vl=15","ISOSU":"","F1":"","F2":"","F3":"0","F4":"0","VL":"15"}}
+
+其中：
+1817 来自：
+http://v.youku.com/player/getPlayList/VideoIDS/XMjIxMjUzNjQ0/timezone/+08/version/5/source/video?ran=1386&password=&n=3
+（另一视频：
+http://v.youku.com/player/getPlayList/VideoIDS/XMjIxMjQwNTA0/timezone/+08/version/5/source/video?ran=198&password=&n=3
+）
+
+的resp：
+{"data":[{"ct":"t","cs":"251","logo":"http:\/\/g4.ykimg.com\/1100641F464CD949A7B0830215E21DD881BB46-83CB-79E2-115A-DA9190635C92","seed":784,"tags":["\u71d5\u5c71\u5927\u8bb2\u5802","\u516c\u6c11\u793e\u4f1a"],"categories":"87","videoid":"55313411","vidEncoded":"XMjIxMjUzNjQ0","username":"crifan","userid":"34988573","title":"\u71d5\u5c71\u5927\u8bb2\u5802 \u4e2d\u56fd\u5982\u4f55\u8d70\u5411\u516c\u6c11\u793e\u4f1a 4-3","up":20,"down":0,"ts":"Xe9gvzIlB7yNNhEBjlPaaA","tsup":"Xe9kYTElB7yNNhECUFfaaA","key1":"bd7d7eab","key2":"9192d3f8a1a4869a","tt":"0","videoSource":"2","seconds":"1817.54","streamfileids":{"flv":"39*5*39*39*39*47*39*22*39*39*16*50*14*0*16*0*25*54*50*15*50*22*39*47*2*22*10*47*2*14*25*25*24*32*2*2*10*50*52*2*2*14*13*52*5*32*39*14*52*25*24*5*15*52*13*54*32*39*10*39*2*14*13*16*13*0*"},"segs":{"flv":[{"no":"0","size":"13142375","seconds":"426","k":"26064669c890f002241114bd","k2":"147110d485936ae7c"},{"no":"1","size":"13141099","seconds":"426","k":"9f047fcbd4bd754c2827db0e","k2":"12b8b9f91f7a34d60"},{"no":"2","size":"13170209","seconds":"426","k":"840f3179ff63a1ad2827db0e","k2":"17c9b67018cb670cf"},{"no":"3","size":"12973481","seconds":"426","k":"d5f81c7e390dc2822827db0e","k2":"1fc63fef2c22ad43c"},{"no":"4","size":"3649755","seconds":"113","k":"be0a6ace2aa88462261c77e5","k2":"1001462b4cd9cb0b1"}]},"streamsizes":{"flv":"56076919"},"stream_ids":{"flv":"24718343"},"streamlogos":{"flv":"1"},"streamtypes":["flv"],"streamtypes_o":["flvhd"]}],"user":{"id":0},"controller":{"search_count":true,"mp4_restrict":1,"stream_mode":2,"share_disabled":false,"download_disabled":false,"video_capture":true,"area_code":320500,"dma_code":4134,"continuous":0,"playmode":"normal"}}
+
+(
+
+
+
+http://stat.youku.com/player/addPlayerStaticReport
+post data:
+videoid=55313411&sid=134330543048914899547&source=video&h=XpsDXBxUnSJ4eTFC&referer=null&t=Xe9gvzIlB7yNNhEBjlPaaA&uid=0&totalseg=5&url=http%3A%2F%2Fv%2Eyouku%2Ecom%2Fv%5Fshow%2Fid%5FXMjIxMjUzNjQ0%2Ehtml&fullflag=0&ikuflag=y1&totalsec=1817
+
+
+
+http://stat.youku.com/player/addPlayerDurationReport?viewUserId=0&number=59&sid=134330543048914899547&Tid=0&format=0&ikuid=120000000000000000004F6F0479485D601D859C&timestamp=1343305431793&playComplete=0&url=http%3A%2F%2Fv%2Eyouku%2Ecom%2Fv%5Fshow%2Fid%5FXMjIxMjUzNjQ0%2Ehtml&referUrl=null&rnd=2109&emb=AjU1MzEzNDExAnYueW91a3UuY29tAnZfc2hvdy9pZF9YTWpJeE1qVXpOalEwLmh0bWw%3D&ct=t&winType=1&cs=251&continuationPlay=1&source=video&currentPlayTime=0&topHdVideo=0&hd=0&videoid=55313411&videoOwnerId=34988573&totalsec=1817&Type=0&starttime=0&fullflag=0&guid=ea352bc1%2Df225%2D588b%2De32e%2DAFB29D6Aebe6&ikuflag=y&showid%5Fv2=
+
+)
+
+（另一视频：
+{"data":[{"ct":"t","cs":"250","logo":"http:\/\/g3.ykimg.com\/1100641F464CD93BFA84790215E21D64CE1060-30AC-BBF3-AFE8-46E6966FFE33","seed":9398,"tags":["\u71d5\u5c71\u5927\u8bb2\u5802","\u516c\u6c11\u793e\u4f1a"],"categories":"87","videoid":"55310126","vidEncoded":"XMjIxMjQwNTA0","username":"crifan","userid":"34988573","title":"\u71d5\u5c71\u5927\u8bb2\u5802 \u4e2d\u56fd\u5982\u4f55\u8d70\u5411\u516c\u6c11\u793e\u4f1a 4-2","up":16,"down":0,"ts":"p8XgjzEgCxkvOREBvtPwkg","tsup":"p8Xk9jIgCxkvORECx9fwkg","key1":"bd7d7eaa","key2":"9d5b100f07aa74ad","tt":"0","videoSource":"2","seconds":"1289.91","streamfileids":{"flv":"53*49*53*53*53*29*53*10*53*53*10*26*9*60*49*41*16*40*39*17*63*10*53*29*39*5*4*29*39*9*17*63*39*4*26*53*4*49*43*8*9*4*29*43*4*49*8*63*43*17*40*9*40*43*39*16*53*8*29*16*5*5*49*40*40*41*"},"segs":{"flv":[{"no":"0","size":"12121092","seconds":"391","k":"677f84926f1ddd512827db0f","k2":"11d26f758d1017ad0"},{"no":"1","size":"12205376","seconds":"396","k":"b7988080b9f6da1e2827db0f","k2":"1aad96e140ff6cad3"},{"no":"2","size":"12266342","seconds":"396","k":"6f38590ff1867a6b261c77e6","k2":"1ce9a72cff7863f93"},{"no":"3","size":"3300897","seconds":"107","k":"4866f30798f37f6b241114bd","k2":"1cfd8d3dcf784b0f1"}]},"streamsizes":{"flv":"39893707"},"stream_ids":{"flv":"24715398"},"streamlogos":{"flv":"1"},"streamtypes":["flv"],"streamtypes_o":["flvhd"]}],"user":{"id":0},"controller":{"search_count":true,"mp4_restrict":1,"stream_mode":2,"share_disabled":false,"download_disabled":false,"video_capture":true,"area_code":320500,"dma_code":4134,"continuous":1,"playmode":"normal"}}
+
+）
+格式化后为：
+{
+    "data": [{
+        "ct": "t",
+        "cs": "251",
+        "logo": "http:\/\/g4.ykimg.com\/1100641F464CD949A7B0830215E21DD881BB46-83CB-79E2-115A-DA9190635C92",
+        "seed": 784,
+        "tags": ["\u71d5\u5c71\u5927\u8bb2\u5802", "\u516c\u6c11\u793e\u4f1a"],
+        "categories": "87",
+        "videoid": "55313411",
+        "vidEncoded": "XMjIxMjUzNjQ0",
+        "username": "crifan",
+        "userid": "34988573",
+        "title": "\u71d5\u5c71\u5927\u8bb2\u5802 \u4e2d\u56fd\u5982\u4f55\u8d70\u5411\u516c\u6c11\u793e\u4f1a 4-3",
+        "up": 20,
+        "down": 0,
+        "ts": "Xe9gvzIlB7yNNhEBjlPaaA",
+        "tsup": "Xe9kYTElB7yNNhECUFfaaA",
+        "key1": "bd7d7eab",
+        "key2": "9192d3f8a1a4869a",
+        "tt": "0",
+        "videoSource": "2",
+        "seconds": "1817.54",
+        "streamfileids": {
+            "flv": "39*5*39*39*39*47*39*22*39*39*16*50*14*0*16*0*25*54*50*15*50*22*39*47*2*22*10*47*2*14*25*25*24*32*2*2*10*50*52*2*2*14*13*52*5*32*39*14*52*25*24*5*15*52*13*54*32*39*10*39*2*14*13*16*13*0*"
+        },
+        "segs": {
+            "flv": [{
+                "no": "0",
+                "size": "13142375",
+                "seconds": "426",
+                "k": "26064669c890f002241114bd",
+                "k2": "147110d485936ae7c"
+            }, {
+                "no": "1",
+                "size": "13141099",
+                "seconds": "426",
+                "k": "9f047fcbd4bd754c2827db0e",
+                "k2": "12b8b9f91f7a34d60"
+            }, {
+                "no": "2",
+                "size": "13170209",
+                "seconds": "426",
+                "k": "840f3179ff63a1ad2827db0e",
+                "k2": "17c9b67018cb670cf"
+            }, {
+                "no": "3",
+                "size": "12973481",
+                "seconds": "426",
+                "k": "d5f81c7e390dc2822827db0e",
+                "k2": "1fc63fef2c22ad43c"
+            }, {
+                "no": "4",
+                "size": "3649755",
+                "seconds": "113",
+                "k": "be0a6ace2aa88462261c77e5",
+                "k2": "1001462b4cd9cb0b1"
+            }]
+        },
+        "streamsizes": {
+            "flv": "56076919"
+        },
+        "stream_ids": {
+            "flv": "24718343"
+        },
+        "streamlogos": {
+            "flv": "1"
+        },
+        "streamtypes": ["flv"],
+        "streamtypes_o": ["flvhd"]
+    }],
+    "user": {
+        "id": 0
+    },
+    "controller": {
+        "search_count": true,
+        "mp4_restrict": 1,
+        "stream_mode": 2,
+        "share_disabled": false,
+        "download_disabled": false,
+        "video_capture": true,
+        "area_code": 320500,
+        "dma_code": 4134,
+        "continuous": 0,
+        "playmode": "normal"
+    }
+}
+
+（另一视频：
+{
+    "data": [{
+        "ct": "t",
+        "cs": "250",
+        "logo": "http:\/\/g3.ykimg.com\/1100641F464CD93BFA84790215E21D64CE1060-30AC-BBF3-AFE8-46E6966FFE33",
+        "seed": 9398,
+        "tags": ["\u71d5\u5c71\u5927\u8bb2\u5802", "\u516c\u6c11\u793e\u4f1a"],
+        "categories": "87",
+        "videoid": "55310126",
+        "vidEncoded": "XMjIxMjQwNTA0",
+        "username": "crifan",
+        "userid": "34988573",
+        "title": "\u71d5\u5c71\u5927\u8bb2\u5802 \u4e2d\u56fd\u5982\u4f55\u8d70\u5411\u516c\u6c11\u793e\u4f1a 4-2",
+        "up": 16,
+        "down": 0,
+        "ts": "p8XgjzEgCxkvOREBvtPwkg",
+        "tsup": "p8Xk9jIgCxkvORECx9fwkg",
+        "key1": "bd7d7eaa",
+        "key2": "9d5b100f07aa74ad",
+        "tt": "0",
+        "videoSource": "2",
+        "seconds": "1289.91",
+        "streamfileids": {
+            "flv": "53*49*53*53*53*29*53*10*53*53*10*26*9*60*49*41*16*40*39*17*63*10*53*29*39*5*4*29*39*9*17*63*39*4*26*53*4*49*43*8*9*4*29*43*4*49*8*63*43*17*40*9*40*43*39*16*53*8*29*16*5*5*49*40*40*41*"
+        },
+        "segs": {
+            "flv": [{
+                "no": "0",
+                "size": "12121092",
+                "seconds": "391",
+                "k": "677f84926f1ddd512827db0f",
+                "k2": "11d26f758d1017ad0"
+            }, {
+                "no": "1",
+                "size": "12205376",
+                "seconds": "396",
+                "k": "b7988080b9f6da1e2827db0f",
+                "k2": "1aad96e140ff6cad3"
+            }, {
+                "no": "2",
+                "size": "12266342",
+                "seconds": "396",
+                "k": "6f38590ff1867a6b261c77e6",
+                "k2": "1ce9a72cff7863f93"
+            }, {
+                "no": "3",
+                "size": "3300897",
+                "seconds": "107",
+                "k": "4866f30798f37f6b241114bd",
+                "k2": "1cfd8d3dcf784b0f1"
+            }]
+        },
+        "streamsizes": {
+            "flv": "39893707"
+        },
+        "stream_ids": {
+            "flv": "24715398"
+        },
+        "streamlogos": {
+            "flv": "1"
+        },
+        "streamtypes": ["flv"],
+        "streamtypes_o": ["flvhd"]
+    }],
+    "user": {
+        "id": 0
+    },
+    "controller": {
+        "search_count": true,
+        "mp4_restrict": 1,
+        "stream_mode": 2,
+        "share_disabled": false,
+        "download_disabled": false,
+        "video_capture": true,
+        "area_code": 320500,
+        "dma_code": 4134,
+        "continuous": 1,
+        "playmode": "normal"
+    }
+}
+）
+
+另外一个视频：
+http://valf.atm.youku.com/valf?ct=t&cs=250&v=55310126&t=1290&u=34988573&fileid=03000204004CD93BFA18740215E21D871EC0E3-6DE2-E367-8ADA-1F062F553AAB&winType=interior&partnerid=null&paid=0&fullflag=0&s=&td=0&k=%u71D5%u5C71%u5927%u8BB2%u5802%7C%u516C%u6C11%u793E%u4F1A
+
+resp：
+{"AT":"0","A2":{"RS":"http://f.youku.com/player/getFlvPath/fileid/03000201004FFA42AC2222003E880322C892A6-14C8-36C1-EAB2-644036EBC9C5?K=383b36395b94d5902827db0f&yad=1&ts=15","MU":"http://vid.atm.youku.com/over?v=55310126&p=1&ct=t&cs=250&ca=75773&ie=82663&uid=34988573&pl=2&bl=1&s=&td=0","CMU":"http://g.cn.miaozhen.com/x.gif?k=1002406&p=3xwEj0&rt=2&o=","MT":"10","CU":"http://vid.atm.youku.com/click?v=55310126&p=1&ct=t&cs=250&ca=75773&ie=82663&uid=34988573&pl=2&bl=1&s=&td=0&u=http://e.cn.miaozhen.com/r.gifinterrogation_esckequal_esc1002406and_escpequal_esc3xwEj0and_escaeequal_esc1000264and_escvoequal_esc39607d750and_escvrequal_esc2and_escoequal_eschttppercent_esc3Apercent_esc2Fpercent_esc2F39pizza.qq.com&md5=8c5308a354a4c3b2fbeaeacf7055fa31","SU":"http://g.cn.miaozhen.com/x.gif?k=1002404&p=3xwEb0&rt=2&o=","VCU":"","SCU":"","VT":"","VC":"","ATMSU":"http://valf.atm.youku.com/show?v=55310126&p=1&ct=t&cs=250&ca=75773&ie=82663&uid=34988573&pl=2&bl=1&s=&td=0&cookie=1343305358185yen&vl=15","ISOSU":"","F1":"","F2":"","F3":"0","F4":"0","VL":"15"}}
+
+
+
+
+
+
+
+
+
+
